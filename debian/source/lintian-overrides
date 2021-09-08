@@ -1,0 +1,4 @@
+python-clikit source: file-without-copyright-information
+python-clikit source: no-debian-changes
+python-clikit source: source-contains-prebuilt-windows-binary
+python-clikit source: source-package-encodes-python-version
